@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+    /* background-image: url(../images/banner/banner1.png); */
+}
+
+/* this is header */
+
+.header-section {
+
+    background-image: url(../images/banner/banner1.png);
+    width: 1600px;
+    height: 808px;
+}
+
+/* this is hearder-maintext */
+
+.heder-maintext {
+    width: 525px;
+    height: 228px;
+    font-weight: 700;
+    font-size: 65px;
+    display: flex;
+    text-align: end;
+    padding-left: 845px;
+    padding-top: 216px;
+    font-weight: bold;
+}
+
+.header-discription {
+    text-align: end;
+    color: #444343;
+    width: 494px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 876px;
+    padding-top: 20px;
+
+}
+
+.btn-primary {
+
+    width: 160px;
+    height: 64px;
+    /* width: 109px;
+    height: 23px; */
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 21px 26px 25px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    display: flex;
+    margin-left: 1210px;
+}
+
+/* main content */
+
+
+
+
+.lady-img {
+
+    padding-left: 206px;
+    padding-top: 160px;
+
+
+}
+
+.contant-tatle {
+    padding-left: 882px;
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    
+   
+
+
+}
+
+
+
+.father {
+    display: flex;
+    justify-content: center;
+
+}
+
+.my-plan {
+    padding-right: 60px;
+}
+
+.my-planh2 {
+    padding-top: 7px;
+}
+
+.my-planp {
+    padding-top: 7px;
+}
+
+.footer-top {
+    border-radius: 8px;
+    padding-top: 60px;
+
+    /* margin-top: 130px;
+    margin-left: 230px;
+    margin-right: 230px;
+    height: 200px;
+    width: 200px; */
+
+
+
+}
+
+footer {
+    width: 100%;
+    height: 300px;
+    background: #151414;
+    color: #F8F8F8;
+    padding-left: 230px;
+    padding: 130px;
+}
+
+.footer-taitle {
+    padding-bottom: 20px;
+}
+
+.footer-h1 {
+    font-weight: 700;
+    font-size: 45px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.phone {
+    font-weight: 400;
+
+}
+
+.emaill {
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.icons {
+    padding-top: 30px;
+
+}
+
+.padding {
+    padding-right: 20px;
+}
+
+
+
+.email {
+
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+   
+}
+
+
+
+
+.Subscribe {
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    padding: 20px 36px;
+    margin-left: 686px;
+}
+.subscribe-title{
+
+
+    padding-left: 700px;
+}
+.Subscribe{
+    
+}
+
+
